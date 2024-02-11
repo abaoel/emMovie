@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# emMovie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an app that allows users to search and rate movies online.
 
 ## Available Scripts
 
