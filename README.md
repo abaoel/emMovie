@@ -2,6 +2,8 @@
 
 This is an app that allows users to search and rate movies online.
 
+<img src="./src/image.png" alt="App Image">
+
 ## Available Scripts
 
 In the project directory, you can run:
